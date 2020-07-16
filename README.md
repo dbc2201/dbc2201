@@ -1,6 +1,6 @@
 ### Hi there, I'm Divyansh Bhardwaj
 
-I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).
+I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).  
 ![meme](./meme.png)
 
 <!--
