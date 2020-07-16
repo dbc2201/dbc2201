@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Divyansh Bhardwaj
+
+I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).
+![meme](meme.png)
 
 <!--
 **dbc2201/dbc2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
