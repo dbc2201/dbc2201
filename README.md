@@ -5,11 +5,7 @@ I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=dbc2201)](https://github.com/anuraghazra/github-readme-stats)
 
-
-**dbc2201/dbc2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+---
 - 🔭 I’m currently working on Data Structures and Algorithms in Java
 - 🌱 I’m currently learning Spring Boot with Kotlin and JavaFX using Functional Programming in Java with MVC.
 - 👯 I’m looking to collaborate on Data Structures and Algorithms in Java
