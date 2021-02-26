@@ -17,3 +17,8 @@ I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dbc2201" alt="dbc2201"/> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbc2201&show_icons=true&locale=en&layout=compact" alt="dbc2201" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbc2201&show_icons=true&locale=en" alt="dbc2201" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbc2201&" alt="dbc2201" /></p>
