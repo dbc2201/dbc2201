@@ -3,8 +3,6 @@
 I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).  
 ![meme](https://github.com/dbc2201/dbc2201/blob/master/meme.png)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dbc2201)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 - 🔭 I’m currently working on Data Structures and Algorithms in Java
 - 🌱 I’m currently learning Spring Boot with Kotlin and JavaFX using Functional Programming in Java with MVC.
