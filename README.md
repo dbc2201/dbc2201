@@ -12,6 +12,7 @@ I'm all about clean code (Go [Uncle Bob](https://g.co/kgs/N35FgZ)!).
 - 📫 How to reach me: divyanshb22@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once failed at a international coding aptitude exam (score was exactly 0!), then later on worked hard and got recognized by Google (Google Scholarship Recipient 2018).
+- 🖋️ Blog: I sometimes write stuff on Dev.to, here's my profile - https://dev.to/dbc2201.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dbc2201" alt="dbc2201"/> </p>
 
