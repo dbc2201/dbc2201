@@ -81,7 +81,7 @@ I transform **script kiddies into professional-grade thinkers** who write code t
 | Corporate Training | Academic Institutions | EdTech Partners |
 |:------------------:|:---------------------:|:---------------:|
 | ![Koenig](https://img.shields.io/badge/Koenig%20Solutions-Corporate-FF6B35?style=flat-square) | ![GLA](https://img.shields.io/badge/GLA%20University-Academic-F7931E?style=flat-square) | ![SureSkills](https://img.shields.io/badge/SureSkills%20Ltd-EdTech-FF6B35?style=flat-square) |
-| ![NIIT](https://img.shields.io/badge/NIIT%20Ltd-Corporate-F7931E?style=flat-square) | | ![Amazon](https://img.shields.io/badge/Amazon%20×%20Coursera-Global-FF9900?style=flat-square) |
+| ![NIIT](https://img.shields.io/badge/NIIT%20Ltd-Corporate-F7931E?style=flat-square) | ![ITM](https://img.shields.io/badge/ITM%20University%20Gwalior-Academic-FF6B35?style=flat-square) | ![Amazon](https://img.shields.io/badge/Amazon%20×%20Coursera-Global-FF9900?style=flat-square) |
 
 </div>
 
